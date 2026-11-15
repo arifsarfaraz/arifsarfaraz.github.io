@@ -1,23 +1,26 @@
-ARIF SARFARAZ - GITHUB PAGES PORTFOLIO
+ARIF SARFARAZ — PORTFOLIO
 
-Prepared files; this package does not publish anything by itself.
+Live website: https://arifsarfaraz.github.io/
+Public repository: https://github.com/arifsarfaraz/arifsarfaraz.github.io
 
-1. Sign in to GitHub as arifsarfaraz.
-2. Create the public repository arifsarfaraz.github.io.
-3. Extract github-pages.zip. Upload the extracted files to the repository's
-   main branch, directly at its root. Do not upload the ZIP or its outer folder.
-   index.html must be at the repository root. Include .nojekyll.
-4. In Settings > Pages, choose Deploy from a branch, then main and /(root).
-5. Save. Wait for GitHub's Pages deployment to finish and use its Visit site link.
-6. Check navigation, all three experience expanders, the PDF download, and mobile.
+GitHub Pages publishes the main branch from / (root). HTTPS is enabled.
+This is a static website. No build step or external script libraries are required.
 
-The intended user-site address is https://arifsarfaraz.github.io/ after a
-successful GitHub Pages deployment. The exporter does not assert it is live.
-Relative assets also support a project repository path if another name is used.
+FILES
+index.html          Portfolio content and search metadata
+styles.css          Responsive layout, typography, and visual design
+site.js             Mobile navigation and illustrative dashboard interactions
+Arif_Sarfaraz_Resume.pdf  Original supplied resume
+favicon.svg         Browser icon
+social-preview.png  Preview image for shared links
+robots.txt          Search crawler instructions
+sitemap.xml         Canonical website URL for search crawlers
+.nojekyll           Serves the prepared files directly through GitHub Pages
 
-Updating: re-export the local portfolio and upload the regenerated files.
-No Node, React, Blogger, server, build step, or external CDN is required to serve
-the exported website. The Blog link opens the existing Blogger site.
+UPDATES
+Edit the website files and commit the changes to main. GitHub Pages then runs
+its build and deployment workflow. Check that workflow before verifying the
+live website. Existing career metrics come from the supplied portfolio.
 
-Official GitHub guide:
-https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+The interactive dashboard uses clearly labeled illustrative data and is
+separate from client work. It does not collect visitor data or submit forms.
