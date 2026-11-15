@@ -1,0 +1,23 @@
+ARIF SARFARAZ - GITHUB PAGES PORTFOLIO
+
+Prepared files; this package does not publish anything by itself.
+
+1. Sign in to GitHub as arifsarfaraz.
+2. Create the public repository arifsarfaraz.github.io.
+3. Extract github-pages.zip. Upload the extracted files to the repository's
+   main branch, directly at its root. Do not upload the ZIP or its outer folder.
+   index.html must be at the repository root. Include .nojekyll.
+4. In Settings > Pages, choose Deploy from a branch, then main and /(root).
+5. Save. Wait for GitHub's Pages deployment to finish and use its Visit site link.
+6. Check navigation, all three experience expanders, the PDF download, and mobile.
+
+The intended user-site address is https://arifsarfaraz.github.io/ after a
+successful GitHub Pages deployment. The exporter does not assert it is live.
+Relative assets also support a project repository path if another name is used.
+
+Updating: re-export the local portfolio and upload the regenerated files.
+No Node, React, Blogger, server, build step, or external CDN is required to serve
+the exported website. The Blog link opens the existing Blogger site.
+
+Official GitHub guide:
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
